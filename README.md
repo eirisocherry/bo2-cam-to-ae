@@ -13,7 +13,7 @@ Tutorial: https://www.youtube.com/watch?v=6pkkpgb8VYY
 
 ## Usage
 1. Open After Effects.  
-2. Go to `Window`, scroll down and open `BO2-Cam-To-AE`.  
+2. Go to `Window`, scroll down and open `BO2-Cam-To-AE.jsx`.  
 3. The script panel will open. It's dockable.  
 4. Import a .t6cr camera data.  
 
